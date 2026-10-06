@@ -1,2 +1,2 @@
-# Programaci-n-para-IA.
+# Programacion-para-IA.
 teoria,apuntes,ejercicios
